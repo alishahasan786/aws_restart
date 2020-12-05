@@ -1,1 +1,1 @@
-This is a more github file. Great!
+This is a more github file.
